@@ -1,1 +1,14 @@
-
+.pricipal{
+    background: #f4f4f4;
+}
+div{
+    background: #e5e5e5;
+    border: 1px solid red;
+}
+#galeria{
+    background:#f4f4f4;
+    float: left;
+}
+.conteudo{
+    float: left;
+}
